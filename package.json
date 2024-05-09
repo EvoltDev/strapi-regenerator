@@ -50,5 +50,8 @@
     "media",
     "regeneration",
     "content management"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
